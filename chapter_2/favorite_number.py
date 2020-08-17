@@ -5,6 +5,6 @@ Then, using that variable, create a message that reveals your favorite number. P
 """
 
 fav_num = 42
-msg = f"My favorite number is {str(fav_num)}."
+msg = f"My favorite number is {fav_num}."
 
 print(msg)
