@@ -6,7 +6,7 @@
 # If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
 # Otherwise, print a generic greeting, such as Hello Eric, thank you for loggin in again.
 
-usernames = ['Eric', 'wiLLie', 'admin', 'eRin', 'ever']
+usernames = ['Eric', 'wiLLie', 'ADMIN', 'eRin', 'ever']
 
 for username in usernames:
     if username.lower() == 'admin':
